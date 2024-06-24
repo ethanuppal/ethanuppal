@@ -1,4 +1,4 @@
-Hi, I'm Ethan! I'm interested in programming languages and computer architecture. I'm a member of the autonomy subteam of [Cornell Electric Vehicles](http://github.com/cornellev) and will be researching in [CAPRA](http://capra.cs.cornell.edu) this summer.
+Hi, I'm Ethan! I'm interested in programming languages (PL) and computer architecture. I'm researching in [CAPRA](http://capra.cs.cornell.edu), a PL+hardware lab, and I'm a member of the autonomy subteam of [Cornell Electric Vehicles](http://github.com/cornellev).
 
 ![stats](https://github-readme-stats-two-iota-82.vercel.app/api?username=ethanuppal&show_icons=true&count_private=true&theme=transparent&hide_rank=true)
 
