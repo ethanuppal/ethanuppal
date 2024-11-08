@@ -2,7 +2,7 @@ Hi, I'm Ethan! I'm interested in programming languages (PL) and computer archite
 
 ![stats](https://github-readme-stats-two-iota-82.vercel.app/api?username=ethanuppal&show_icons=true&count_private=true&theme=transparent&hide_rank=true)
 
-![langs](https://github-readme-stats-two-iota-82.vercel.app/api/top-langs/?username=ethanuppal&layout=compact&theme=transparent&hide=java,jupyter%20notebook,vim%20script,lua,eiffel,emacs%20lisp,e,roff,html,javascript,css,less&langs_count=8&exclude_repo=dslabs,ethanuppal.github.io,reveal,transcribe,github-readme-stats,cdn,cocowiki,SpaceVim.d_config,SpaceVim_config,nvim_config,Swizzler,spade,filament,whisky-book,tokyonight.nvim)
+![langs](https://github-readme-stats-two-iota-82.vercel.app/api/top-langs/?username=ethanuppal&layout=compact&theme=transparent&hide=java,jupyter%20notebook,vim%20script,lua,eiffel,emacs%20lisp,e,roff,html,javascript,css,less&langs_count=8&exclude_repo=dslabs,ethanuppal.github.io,reveal,transcribe,github-readme-stats,cdn,cocowiki,SpaceVim.d_config,SpaceVim_config,nvim_config,Swizzler,spade,filament,whisky-book,tokyonight.nvim,ascend-project)
 
 <!--
 **ethanuppal/ethanuppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
