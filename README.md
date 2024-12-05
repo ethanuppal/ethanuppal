@@ -2,6 +2,8 @@ Hi, I'm Ethan! I'm interested in programming languages (PL) and computer archite
 
 <img src="https://raw.githubusercontent.com/ethanuppal/ethanuppal/refs/heads/contr-graph-gif/profile-3d-contrib/profile-night-rainbow.svg">
 
+## Personal Projects
+
 I'm working on way too many things:
 
 - [fernjit](https://github.com/ethanuppal/fernjit), a VM and just-in-time compiler written in Rust.
@@ -10,10 +12,14 @@ I'm working on way too many things:
 - [pulsar](https://github.com/ethanuppal/pulsar), a language for building hardware accelerators with zero-latency memory.
 - [hardfloat-spade](https://github.com/ethanuppal/hardfloat-spade) for using floating-point in hardware powered by [berkeley-hardfloat](https://github.com/ethanuppal/berkeley-hardfloat) downstream patches.
 
+## Open Source
+
 I also contribute to open source:
 
-- [calyx](https://gitlab.com/spade-lang/spade), a compiler infrastructure for hardware accelerator generators.
-- [spade](https://gitlab.com/spade-lang/spade), a better hardware description language.
+- [Calyx](https://github.com/calyxir/calyx), a compiler infrastructure for hardware accelerator generators.
+- [Spade](https://gitlab.com/spade-lang/spade), a better hardware description language.
+  - I'm building [spadefmt](https://github.com/ethanuppal/spademft) an autoformatting for Spade.
+  - I made [spade.nvim](https://github.com/ethanuppal/spade.nvim), Neovim editor support for Spade.
 
 <!--
 ![stats](https://github-readme-stats-two-iota-82.vercel.app/api?username=ethanuppal&show_icons=true&count_private=true&theme=transparent&hide_rank=true)
