@@ -8,7 +8,7 @@ I'm working on way too many things:
 
 - [fernjit](https://github.com/ethanuppal/fernjit), a VM and just-in-time compiler written in Rust.
 - [gc](https://github.com/ethanuppal/gc), a garbage collection runtime written in C.
-- [asmpong](https://github.com/ethanuppal/aspong), pong written in x86 assembly.
+- [asmpong](https://github.com/ethanuppal/asmpong), pong written in x86 assembly.
 - [pulsar](https://github.com/ethanuppal/pulsar), a language for building hardware accelerators with zero-latency memory.
 - [hardfloat-spade](https://github.com/ethanuppal/hardfloat-spade) for using floating-point in hardware powered by [berkeley-hardfloat](https://github.com/ethanuppal/berkeley-hardfloat) downstream patches.
 
