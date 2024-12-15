@@ -18,7 +18,7 @@ I also contribute to open source:
 
 - [Calyx](https://github.com/calyxir/calyx), a compiler infrastructure for hardware accelerator generators.
 - [Spade](https://gitlab.com/spade-lang/spade), a better hardware description language.
-  - I'm building [spadefmt](https://github.com/ethanuppal/spadefmt) an autoformatting for Spade.
+  - I'm building [spadefmt](https://github.com/ethanuppal/spadefmt), an autoformatting for Spade.
   - I made [spade.nvim](https://github.com/ethanuppal/spade.nvim), Neovim editor support for Spade.
 
 <!--
